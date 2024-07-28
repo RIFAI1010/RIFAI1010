@@ -79,6 +79,6 @@ Here are some ideas to get you started:
   <br>
   <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia'><br>
-  <img src='wave.svg'>
+  <img src='wave2.svg'>
 </div>
 
