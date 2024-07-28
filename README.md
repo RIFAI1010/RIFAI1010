@@ -1,3 +1,7 @@
+<div align='center'>
+  <img  src='wave.svg'>
+</div>
+
 <h1 align='center'>Hi there 👋</h1>
 - 💬 I am passionate about computer technology, which has driven me to pursue a career in programming. I am dedicated to continuous learning and problem-solving in the tech industry.
 <h2 align='center'>Connect with me:</h2>
