@@ -12,6 +12,7 @@
     <img src='https://img.icons8.com/?size=100&id=30998&format=png&color=000000' alt="instagram" width="40" height="40">
   </a>  
 </div>
+
 <h3 align='center'>Languages and Tools:</h3>
 <div align='center'>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
@@ -72,13 +73,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center' >
-  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer">
-    <img src='https://lanyard.cnrad.dev/api/547716155973042176'>
-  </a>
-  <br>
-  <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia'><br>
+| <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='200'><br></a> | <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='200'><br></a> |
+  | ------------- | ------------- |
+
+  
+<div align='center'>
+  <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars' height='200'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia' height='200'><br>
   <img src='wave2.svg'>
 </div>
 
