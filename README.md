@@ -1,6 +1,6 @@
 <h1 align='center'>Hi there 👋</h1>
 - 💬 I am passionate about computer technology, which has driven me to pursue a career in programming. I am dedicated to continuous learning and problem-solving in the tech industry.
-<h3 align='center'>Connect with me:</h3>
+<h2 align='center'>Connect with me:</h2>
 <div align='center'>
   <a href='https://www.instagram.com/rippaiii_/' target="_blank" rel="noreferrer">
     <img src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt="instagram" width="40" height="40">
@@ -13,7 +13,7 @@
   </a>  
 </div>
 
-<h3 align='center'>Languages and Tools:</h3>
+<h2 align='center'>Languages and Tools:</h2>
 <div align='center'>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -80,8 +80,8 @@ Here are some ideas to get you started:
 -->
   
 <div align='center'>
-  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='170'></a>
-  <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia' height='170'></a><br>
+  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='160'></a>
+  <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia' height='160'></a><br>
   <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars' height='170'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia' height='170'><br>
   <img src='wave2.svg'>
