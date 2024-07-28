@@ -8,6 +8,9 @@
   <a href='https://www.youtube.com/channel/UCRTMrabJqWxAMSHsahxHZ_w' target="_blank" rel="noreferrer">
     <img src='https://img.icons8.com/?size=100&id=19318&format=png&color=000000' alt="instagram" width="40" height="40">
   </a>
+  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer">
+    <img src='https://img.icons8.com/?size=100&id=30998&format=png&color=000000' alt="instagram" width="40" height="40">
+  </a>  
 </div>
 <h3 align='center'>Languages and Tools:</h3>
 <div align='center'>
@@ -69,8 +72,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-<div align='center' target="_blank" rel="noreferrer">
-  <a href='https://discord.com/users/547716155973042176'>
+<div align='center' >
+  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer">
     <img src='https://lanyard.cnrad.dev/api/547716155973042176'>
   </a>
   <br>
