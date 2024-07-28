@@ -1,5 +1,5 @@
 <div align='center'>
-  <img  src='wave1.svg'>
+  
 </div>
 
 <h1 align='center'>Hi there 👋</h1>
