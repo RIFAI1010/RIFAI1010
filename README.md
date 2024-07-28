@@ -73,13 +73,13 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='200'><br></a> | <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='200'><br></a> |
+| <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176'><br></a> | <a href='' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia'><br></a> |
   | ------------- | ------------- |
 
   
 <div align='center'>
-  <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars' height='200'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia' height='200'><br>
+  <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars' height='170'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia' height='170'><br>
   <img src='wave2.svg'>
 </div>
 
