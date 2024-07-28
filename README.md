@@ -73,7 +73,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-| <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176'><br></a> | <a href='' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia'><br></a> |
+| <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176'><br></a> | <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia'><br></a> |
   | ------------- | ------------- |
 
   
