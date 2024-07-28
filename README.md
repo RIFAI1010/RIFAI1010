@@ -1,5 +1,5 @@
 <h1 align='center'>Hi there 👋</h1>
-<p>I am passionate about computer technology, which has driven me to pursue a career in programming. I am dedicated to continuous learning and problem-solving in the tech industry.</p>
+<h4>I am passionate about computer technology, which has driven me to pursue a career in programming. I am dedicated to continuous learning and problem-solving in the tech industry.</h4>
 <h3 align='center'>Connect with me:</h3>
 <div align='center'>
   <a href='https://www.instagram.com/rippaiii_/' target="_blank" rel="noreferrer">
