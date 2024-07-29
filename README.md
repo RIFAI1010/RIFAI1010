@@ -82,10 +82,15 @@ Here are some ideas to get you started:
   | ------------- | ------------- |
   
 -->
-  
+<h2 align='left'>on progress</h2>
+
+| <a href='https://github.com/RIFAI1010/ThisMading' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=ThisMading&theme=algolia' height='160'></a> | <a href='https://github.com/RIFAI1010/portofolio' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=portofolio&theme=algolia' height='160'></a>
+| ------------- | ------------- |
+
+<h2 align='left'>stats</h2>
 <div align='center'>
-  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='160'></a>
-  <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia' height='160'></a><br>
+  <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia' height='160'></a>
+  <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='160'></a><br>
   <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars' height='170'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia' height='170'><br>
   <img src='wave2.svg'>
