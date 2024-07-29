@@ -89,10 +89,11 @@ Here are some ideas to get you started:
 
 <h2 align='left'>stats</h2>
 <div align='center'>
-  <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&theme=algolia' height='160'></a>
+  <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&show_icons=true&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='160'></a>
   <a href='https://discord.com/users/547716155973042176' target="_blank" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='160'></a><br>
-  <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&theme=algolia&show_icons=true&hide=stars' height='170'>
-  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&theme=algolia' height='170'><br>
+  <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&show_icons=true&hide=stars&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='170'>
+  <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='170'><br>
   <img src='wave2.svg'>
 </div>
 
+1A1C1F
