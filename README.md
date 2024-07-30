@@ -84,7 +84,7 @@ Here are some ideas to get you started:
 -->
 <h2 align='left'>on progress</h2>
 
-| <a href='https://github.com/RIFAI1010/ThisMading' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=ThisMading&theme=algolia' height='160'></a> | <a href='https://github.com/RIFAI1010/portofolio' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=portofolio&theme=algolia' height='160'></a>
+| <a href='https://github.com/RIFAI1010/ThisMading' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=thismading&theme=algolia' height='160'></a> | <a href='https://github.com/RIFAI1010/portofolio' target="_blank" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=portofolio&theme=algolia' height='160'></a>
 | ------------- | ------------- |
 
 <h2 align='left'>stats</h2>
