@@ -18,7 +18,7 @@
 </div>
 
 <h2 align='left'>Languages and Tools:</h2>
-<div align='center'>
+<div align='left'>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
 </a>
@@ -43,7 +43,6 @@
   <a href="https://laravel.com/" target="_blank" rel="noreferrer">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" alt="laravel" width="40" height="40" />
   </a>
-  <br>
   <!--
   -->
   <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer">
