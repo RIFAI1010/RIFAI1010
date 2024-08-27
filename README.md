@@ -4,8 +4,8 @@
 
 <h1 align='center'>Hi there 👋</h1>
 - 💬 I am passionate about computer technology, which has driven me to pursue a career in programming. I am dedicated to continuous learning and problem-solving in the tech industry.
-<h2 align='center'>Connect with me:</h2>
-<div align='center'>
+<br><b align='left'>Connect with me:</b>
+<div align='left'>
   <a href='https://www.instagram.com/rippaiii_/' target="_blank" rel="noreferrer">
     <img src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt="instagram" width="40" height="40">
   </a>
@@ -17,7 +17,7 @@
   </a>  
 </div>
 
-<h2 align='center'>Languages and Tools:</h2>
+<h2 align='left'>Languages and Tools:</h2>
 <div align='center'>
   <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40" />
@@ -95,5 +95,3 @@ Here are some ideas to get you started:
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='170'><br>
   <img src='wave2.svg'>
 </div>
-
-1A1C1F
