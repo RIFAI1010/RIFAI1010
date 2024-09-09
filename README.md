@@ -41,7 +41,6 @@
   </a>
   <br>
   <!-- frameworks -->
-  <h3>Frameworks</h3>
   <a href="https://nodejs.org" target="_blank" title="" rel="noreferrer">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   </a>
