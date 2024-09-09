@@ -20,6 +20,7 @@
 <h2 align='left'>Languages and Tools:</h2>
 <div align='left'>
   <!-- langs -->
+  <h3>Languages</h3>
   <a href="https://www.w3.org/html/" target="_blank" title="" rel="noreferrer">
     <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
 </a>
@@ -40,6 +41,7 @@
   </a>
   <br>
   <!-- frameworks -->
+  <h3>Frameworks</h3>
   <a href="https://nodejs.org" target="_blank" title="" rel="noreferrer">
     <img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" />
   </a>
@@ -57,8 +59,15 @@
   </a>
   <br>
   <!-- tools -->
+  <h3>Tools</h3>
   <a href="https://code.visualstudio.com/" target="_blank" title="" rel="noreferrer">
     <img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" />
+  </a>
+  <a href="https://visualstudio.microsoft.com/" target="_blank" title="" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visualstudio" />
+  </a>
+  <a href="https://unity.com/" target="_blank" title="" rel="noreferrer">
+    <img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" />
   </a>
   <a href="https://insomnia.rest/" target="_blank" title="" rel="noreferrer">
     <img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia"/>
