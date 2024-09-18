@@ -29,6 +29,7 @@
   <a href="https://nextjs.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" alt="nextjs" /></a>
   <a href="https://react.dev/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /></a>
   <a href="https://vuejs.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vue" /></a>
+  <a href="https://flutter.dev/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /></a>
   <br>
   <!-- tools -->
   <h3>Tools</h3>
@@ -38,6 +39,7 @@
   <a href="https://insomnia.rest/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia"/></a>
   <a href="https://git-scm.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
   <a href="https://ubuntu.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
+  <a href="https://linuxmint.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="linuxmint" /></a>
   <a href="https://www.mysql.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
   <a href="https://www.postgresql.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
 </div>
