@@ -73,7 +73,8 @@ Here are some ideas to get you started:
 <h2 align='left'>on progress</h2>
 
 | <a href='https://github.com/RIFAI1010/ThisMading' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=thismading&theme=algolia' height='160'></a> | <a href='https://github.com/RIFAI1010/cashier_mobile' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier_mobile&theme=algolia' height='160'></a> |
-| --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| - | - |
+| ? | ? |
 
 <h2 align='left'>stats</h2>
 <div align='center'>
