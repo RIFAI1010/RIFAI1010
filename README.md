@@ -14,7 +14,7 @@
 <h2 align='left'>Languages and Tools:</h2>
 <div align='left'>
   <!-- langs -->
-  <h3>Languages</h3>
+<!--   <h3>Languages</h3> -->
   <a href="https://www.w3.org/html/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
   <a href="https://www.w3schools.com/css/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /></a>
   <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="javascript" /></a>
@@ -32,7 +32,7 @@
   <a href="https://flutter.dev/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /></a>
   <br>
   <!-- tools -->
-  <h3>Tools</h3>
+<!--   <h3>Tools</h3> -->
   <a href="https://code.visualstudio.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visualstudio" /></a>
   <a href="https://unity.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" /></a>
