@@ -21,7 +21,7 @@
   <a href="https://www.java.com" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/java-%23FF0000.svg?style=for-the-badge&logoColor=white" alt="java" /></a>
   <a href="https://www.php.net" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="php" /></a>
   <a href="https://dart.dev/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white" alt="dart" /></a>
-  <br>
+<!--   <br> -->
   <!-- frameworks -->
   <a href="https://nodejs.org" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="nodejs" /></a>
   <a href="https://laravel.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="laravel" /></a>
@@ -30,16 +30,19 @@
   <a href="https://react.dev/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB" alt="react" /></a>
   <a href="https://vuejs.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D" alt="vue" /></a>
   <a href="https://flutter.dev/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white" alt="flutter" /></a>
-  <br>
+<!--   <br> -->
   <!-- tools -->
 <!--   <h3>Tools</h3> -->
   <a href="https://code.visualstudio.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="vscode" /></a>
   <a href="https://visualstudio.microsoft.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white" alt="visualstudio" /></a>
+  <a href="https://developer.android.com/studio?hl=id/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/android%20studio-346ac1?style=for-the-badge&logo=android%20studio&logoColor=white" alt="androidstudio" /></a>
   <a href="https://unity.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/unity-%23000000.svg?style=for-the-badge&logo=unity&logoColor=white" alt="unity" /></a>
   <a href="https://insomnia.rest/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Insomnia-black?style=for-the-badge&logo=insomnia&logoColor=5849BE" alt="insomnia"/></a>
   <a href="https://git-scm.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="git" /></a>
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
   <a href="https://ubuntu.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
   <a href="https://linuxmint.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="linuxmint" /></a>
+  <a href="https://fedoraproject.org/workstation/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedorilinux" /></a>
   <a href="https://www.mysql.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
   <a href="https://www.postgresql.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a>
 </div>
