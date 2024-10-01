@@ -3,8 +3,11 @@
 </div>
 
 <h1 align='center'>Hi there 👋</h1>
-- 💬 I am passionate about computer technology, which has driven me to pursue a career in programming. I am dedicated to continuous learning and problem-solving in the tech industry.
-<br><b align='left'>Connect with me:</b>
+- 💬 I am passionate about computer technology, which has driven me to pursue a career in programming
+<br>
+<br>
+
+<b align='left'>Connect with me:</b>
 <div align='left'>
   <a href='https://www.instagram.com/rippaiii_/' target="_blank" title="" rel="noreferrer"><img src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt="instagram" width="40" height="40"></a>
   <a href='https://www.youtube.com/channel/UCRTMrabJqWxAMSHsahxHZ_w' target="_blank" title="" rel="noreferrer"><img src='https://img.icons8.com/?size=100&id=19318&format=png&color=000000' alt="instagram" width="40" height="40"></a>
