@@ -45,6 +45,7 @@
    -->
   <br>
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
+  <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
   <a href="https://ubuntu.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
   <a href="https://linuxmint.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="linuxmint" /></a>
   <a href="https://fedoraproject.org/workstation/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedorilinux" /></a>
