@@ -49,7 +49,8 @@
   <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
   <a href="https://ubuntu.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
   <a href="https://linuxmint.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="linuxmint" /></a>
-  <a href="https://fedoraproject.org/workstation/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedorilinux" /></a>
+  <a href="https://fedoraproject.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedorilinux" /></a>
+  <a href="https://manjaro.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="manjarolinux" /></a>
 <!--   <a href="https://www.mysql.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql" /></a>
   <a href="https://www.postgresql.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="postgresql" /></a> -->
 </div>
