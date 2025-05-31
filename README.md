@@ -51,7 +51,7 @@
   </details>
    <!-- os -->
    <details open>
-     <summary><b>💻 Operating Systems <a href="#" title="the operating system that I am currently using and that I have been using for at least 1 month"><img src="https://img.icons8.com/?size=100&id=59817&format=png&color=000000" width="12" height="12"></a></b></summary>
+     <summary><b title="the operating system that I am currently using and that I have been using for at least 1 month">💻 Operating Systems ⓘ</b></summary>
       <p align="left">
         <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
         <a href="https://archlinux.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="archlinux" /></a>
