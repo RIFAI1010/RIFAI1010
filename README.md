@@ -18,6 +18,12 @@
 <div align='left'>
   <!-- langs -->
 <!--   <h3>Languages</h3> -->
+  <!-- <details open>
+    <summary><b>💻 Hardware & Device</b></summary>
+    <p align="left">
+    </p>
+  </details> -->
+
   <details open>
     <summary><b>💻 Programming Languages</b></summary>
     <p align="left">
@@ -45,16 +51,17 @@
   </details>
    <!-- os -->
    <details open>
-    <summary><b>💻 Operating Systems</b></summary>
-    <p align="left">
-      <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
-      <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
-      <a href="https://ubuntu.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
-      <a href="https://linuxmint.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="linuxmint" /></a>
-      <a href="https://fedoraproject.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedorilinux" /></a>
-      <a href="https://manjaro.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="manjarolinux" /></a>
-      <a href="https://archlinux.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="archlinux" /></a>
-    </p>
+     <summary><b>💻 Operating Systems <a href="#" title="the operating system that I am currently using and that I have been using for at least 1 month"><img src="https://img.icons8.com/?size=100&id=59817&format=png&color=000000" width="12" height="12"></a></b></summary>
+      <p align="left">
+        <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2010-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
+        <a href="https://archlinux.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Arch%20Linux-1793D1?logo=arch-linux&logoColor=fff&style=for-the-badge" alt="archlinux" /></a>
+        <br>
+        <a href="https://www.microsoft.com/en-us/windows?r=1" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Windows%2011-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="windows" /></a>
+        <a href="https://ubuntu.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" alt="ubuntu" /></a>
+        <a href="https://linuxmint.com/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Linux%20Mint-87CF3E?style=for-the-badge&logo=Linux%20Mint&logoColor=white" alt="linuxmint" /></a>
+        <a href="https://fedoraproject.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Fedora-294172?style=for-the-badge&logo=fedora&logoColor=white" alt="fedorilinux" /></a>
+        <a href="https://manjaro.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="manjarolinux" /></a>
+      </p>
    </details>
 </div>
 <br>
