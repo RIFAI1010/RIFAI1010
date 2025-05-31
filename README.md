@@ -1,30 +1,16 @@
-<div align='center'>
-  <img src='wave1.svg'>
-</div>
-
+<img src='wave1.svg'>
 <h1 align='center'>Hi there 👋</h1>
-- 💬 I am passionate about computer technology, which has driven me to pursue a career in programming
-<br>
-<br>
-
-<b align='left'>Connect with me:</b>
-<div align='left'>
+<p align='left'>- 💬 I am passionate about computer technology, which has driven me to pursue a career in programming</p>
+<h2 align='left'>Connect with me:</h2>
+<p align="left">
   <a href='https://www.instagram.com/rippaiii_/' target="_blank" title="" rel="noreferrer"><img src='https://img.icons8.com/?size=100&id=Xy10Jcu1L2Su&format=png&color=000000' alt="instagram" width="40" height="40"></a>
   <a href='https://www.youtube.com/channel/UCRTMrabJqWxAMSHsahxHZ_w' target="_blank" title="" rel="noreferrer"><img src='https://img.icons8.com/?size=100&id=19318&format=png&color=000000' alt="instagram" width="40" height="40"></a>
   <a href='https://discord.com/users/547716155973042176' target="_blank" title="" rel="noreferrer"><img src='https://img.icons8.com/?size=100&id=30998&format=png&color=000000' alt="instagram" width="40" height="40"></a>  
-</div>
+</p>
 
 <h2 align='left'>Languages and Tools:</h2>
-<div align='left'>
   <!-- langs -->
-<!--   <h3>Languages</h3> -->
-  <!-- <details open>
-    <summary><b>💻 Hardware & Device</b></summary>
-    <p align="left">
-    </p>
-  </details> -->
-
-  <details open>
+<details open>
     <summary><b>💻 Programming Languages</b></summary>
     <p align="left">
       <a href="https://www.w3.org/html/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="html5" /></a>
@@ -63,20 +49,17 @@
         <a href="https://manjaro.org/" target="_blank" title="" rel="noreferrer"><img src="https://img.shields.io/badge/Manjaro-35BF5C?style=for-the-badge&logo=Manjaro&logoColor=white" alt="manjarolinux" /></a>
       </p>
    </details>
-</div>
-<br>
-
 <h2 align='left'>on progress</h2>
 
-| <a href='https://github.com/RIFAI1010/ThisMading' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=thismading&theme=algolia' height='160'></a>           | <a href='https://github.com/RIFAI1010/cashier_mobile' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier_mobile&theme=algolia' height='160'></a>   |
-| -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| <a href='https://github.com/RIFAI1010/cashier-express' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier-express&theme=algolia' height='160'></a> | <a href='https://github.com/RIFAI1010/cashier-laravel' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier-laravel&theme=algolia' height='160'></a> |
+| `<a href='https://github.com/RIFAI1010/ThisMading' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=thismading&theme=algolia' height='160'>``</a>`           | `<a href='https://github.com/RIFAI1010/cashier_mobile' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier_mobile&theme=algolia' height='160'>``</a>`   |
+| - | - |
+| `<a href='https://github.com/RIFAI1010/cashier-express' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier-express&theme=algolia' height='160'>``</a>` | `<a href='https://github.com/RIFAI1010/cashier-laravel' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=cashier-laravel&theme=algolia' height='160'>``</a>` |
 
 <h2 align='left'>stats</h2>
-<div align='center'>
+<p align='center'>
   <a href='https://github.com/RIFAI1010/perpustakaan-web' target="_blank" title="" rel="noreferrer"><img align="center" src='https://github-readme-stats.vercel.app/api/pin/?username=rifai1010&repo=perpustakaan-web&show_icons=true&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='160'></a>
   <a href='https://discord.com/users/547716155973042176' target="_blank" title="" rel="noreferrer"><img align="center" src='https://lanyard.cnrad.dev/api/547716155973042176' height='160'></a><br>
   <img src='https://github-readme-stats.vercel.app/api?username=rifai1010&show_icons=true&hide=stars&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='170'>
   <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=rifai1010&layout=compact&title_color=fff&icon_color=00AEFF&text_color=9f9f9f&bg_color=1A1C1F&hide_border=true' height='170'><br>
   <img src='wave2.svg'>
-</div>
+</p>
